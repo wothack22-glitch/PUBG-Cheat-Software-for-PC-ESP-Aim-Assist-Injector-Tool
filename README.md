@@ -9,6 +9,8 @@ Designed for Windows 10/11 with support for Steam and Krafton launcher versions.
 
 > Download cheat: [Pubg Cheat](https://wot-hack.ru/besplatnyiy-chit-esp-dlya-pubg/).
 
+---
+
 ![PUBG Cheat](https://cheat.bz/data/attachments/019ac510-8e6c-7d4a-9754-7b3b8e142006.webp)
 
 ## Overview
@@ -98,3 +100,5 @@ All hotkeys are configurable via settings.
 
 ```bash
 injector.exe --process=PUBG --module=esp_core.dll --safe
+
+> Download cheat: [Pubg Cheat](https://wot-hack.ru/besplatnyiy-chit-esp-dlya-pubg/).
