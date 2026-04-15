@@ -96,9 +96,11 @@ All hotkeys are configurable via settings.
 
 ---
 
+> Download cheat: [Pubg Cheat](https://wot-hack.ru/besplatnyiy-chit-esp-dlya-pubg/).
+
 ## Example Usage
 
 ```bash
 injector.exe --process=PUBG --module=esp_core.dll --safe
 
-> Download cheat: [Pubg Cheat](https://wot-hack.ru/besplatnyiy-chit-esp-dlya-pubg/).
+
