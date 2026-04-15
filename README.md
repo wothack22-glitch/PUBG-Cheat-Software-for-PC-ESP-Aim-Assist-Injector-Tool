@@ -7,6 +7,8 @@ Designed for Windows 10/11 with support for Steam and Krafton launcher versions.
 
 ---
 
+Download cheat: [Pubg Cheat](https://wot-hack.ru/besplatnyiy-chit-esp-dlya-pubg/).
+
 ## Overview
 
 This tool integrates three core components:
